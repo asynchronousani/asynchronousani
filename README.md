@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anirudh.
-- 👀 I’m interested in Data Science, AI, and NLP.
+- 👀 I’m interested in Data Science, AI, NLP and OpenCV.
 - 🌱 I’m a ML/AI student from SGT University, Gurugram.
 - 💞️ I’m looking to collaborate on Data Science Projects, especially those in NLP and focusing on LLMs.
 - 📫 How to reach me: anirudhvarshney7@gmail.com
