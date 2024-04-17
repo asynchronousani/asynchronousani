@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science, AI, and NLP.
 - 🌱 I’m a ML/AI student from SGT University, Gurugram.
 - 💞️ I’m looking to collaborate on Data Science Projects, especially those in NLP and focusing on LLMs.
-- 📫 How to reach me: anirudhvarshney2901@gmail.com
+- 📫 How to reach me: anirudhvarshney7@gmail.com
