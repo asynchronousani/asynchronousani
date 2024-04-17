@@ -1,4 +1,5 @@
-##👋 Hey there, I'm Anirudh! Welcome to my corner of GitHub.
+## Hey there, I'm Anirudh! 👋
+## Welcome to my corner of GitHub!
 
 ### About Me
 - 🎓 I'm a passionate ML/AI student pursuing my dreams at SGT University, Gurugram.
