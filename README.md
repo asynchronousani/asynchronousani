@@ -1,7 +1,7 @@
 ## Hey there, I'm Anirudh! 👋 Welcome to my corner of GitHub!
 
 ### About Me
-- 🎓 I'm a passionate ML/AI student pursuing my dreams at SGT University, Gurugram.
+- 🎓 I'm a passionate ML/AI student pursuing my degree at SGT University, Gurugram.
 - 👀 My interests span across the realms of Data Analytics, Data Science and AI particularly in the fields of NLP and OpenCV.
 - 🌱 I'm constantly growing and learning, exploring the fascinating world of machine learning algorithms and their applications.
 - 💡 I'm particularly drawn to the magic of OpenCV and Natural Language Processing (NLP) and the challenges they present.
