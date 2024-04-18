@@ -5,8 +5,6 @@
 - 👀 My interests span across the realms of Data Analytics, Data Science and AI particularly in the fields of NLP and OpenCV.
 - 🌱 I'm constantly growing and learning, exploring the fascinating world of machine learning algorithms and their applications.
 - 💡 I'm particularly drawn to the magic of OpenCV and Natural Language Processing (NLP) and the challenges they present.
-
-### What I Bring to the Table
 - 🤝 I'm actively seeking opportunities to collaborate on innovative Python and Data Science projects.
 
 ### Let's Connect!
