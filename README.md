@@ -1,16 +1,31 @@
-## Hey there, I'm Anirudh! 👋 Welcome to my corner of GitHub!
+<h1 align="center">Anirudh </h1>   
+<h2 align="center"><!-- Social icons section -->
+<p align="center">
+  <a href="www.linkedin.com/in/anirudh-v-096290228"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/3FQOtZt.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="mailto: anirudhvarshney2901@gmail" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
+</p> </h2>  
 
-### About Me
-- 🎓 I'm a passionate ML/AI student pursuing my degree at SGT University, Gurugram.
-- 👀 My interests span across the realms of Data Analytics, Data Science and AI particularly in the fields of NLP and OpenCV.
-- 🌱 I'm constantly growing and learning, exploring the fascinating world of machine learning algorithms and their applications.
-- 💡 I'm particularly drawn to the magic of OpenCV and Natural Language Processing (NLP) and the challenges they present.
-- 🤝 I'm actively seeking opportunities to collaborate on innovative Python and Data Science projects.
+**`Currently working on GenAI Projects and learning Rust`**
 
-### Let's Connect!
-- 📫 Reach out to me at: [anirudhvarshney7@gmail.com](mailto:anirudhvarshney7@gmail.com)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anirudh-v-096290228/) to stay in the loop with my latest ventures and insights.
+---
+### 🌑 Languages
+<img align="left" alt="C" width="30px" alt="C" title="C" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img align="left" alt="C++" width="30px" alt="C++" title="C++" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="Python" width="30px" alt="Python" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Rust" width="30px" alt="Rust" title="Rust" style="padding-right:10px;" src="https://imgur.com/IrjW54J.png" />
+<img align="left" alt="html" width="30px" alt="html" title="html" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<br />
 
-### Projects I'm Excited About
-- 🚀 Currently, I'm exploring projects that push the boundaries of Data Analytics, OpenCV, NLP and leverage the power of LLMs.
-- 💼 If you have an idea or a project you'd like to collaborate on, I'd love to hear about it!
+### 🌒 Software and Tools
+<img align="left" alt="vscode" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="pycharm" title="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="github" title="GitHub" width="30px" style="padding-right:10px;" src="https://i.imgur.com/rHUROEu.png" />
+<img align="left" alt="mysql" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<br />
+
+### 🌓 Libraries
+<img align="left" alt="pandas" title="pandas" width="30px" style="padding-right:10px;" src="https://i.imgur.com/5b4AUzX.png" />
+<img align="left" alt="tensorflow" title="tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="matplotlib" title="matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+<br />
