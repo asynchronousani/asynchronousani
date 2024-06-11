@@ -1,7 +1,7 @@
 <h1 align="center">Anirudh </h1>   
 <h2 align="center"><!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/anirudh-v-096290228"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/3FQOtZt.png"/></a>
+  <a href="www.linkedin.com/in/anirudh-v-096290228/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/3FQOtZt.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
   <a href="mailto: anirudhvarshney2901@gmail" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
 </p> </h2>  
