@@ -10,11 +10,8 @@
 
 ---
 ### 🌑 Languages
-<img align="left" alt="C" width="30px" alt="C" title="C" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="C++" width="30px" alt="C++" title="C++" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="Python" width="30px" alt="Python" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Rust" width="30px" alt="Rust" title="Rust" style="padding-right:10px;" src="https://imgur.com/IrjW54J.png" />
-<img align="left" alt="html" width="30px" alt="html" title="html" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <br />
 
 ### 🌒 Software and Tools
