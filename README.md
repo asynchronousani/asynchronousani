@@ -6,7 +6,7 @@
   <a href="mailto: anirudhvarshney2901@gmail" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
 </p> </h2>  
 
-**`Currently pursuing MTech, working on GenAI projects and learning Rust`**
+**`Currently pursuing MTech, working on NLP, OpenCV and ML/DL Projects.`**
 
 ---
 ### 🌑 Languages
