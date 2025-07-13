@@ -1,28 +1,17 @@
-<h1 align="center">Anirudh Varshney</h1>   
-<h2 align="center"><!-- Social icons section -->
-<p align="center">
-  <a href="http://www.linkedin.com/in/anirudh-v-096290228/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/3FQOtZt.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="mailto: anirudhvarshney2901@gmail" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
-</p> </h2>  
+<h1 align="center">Hi 👋, I'm Anirudh</h1>
+<h3 align="center">Python and ML/AI Developer</h3>
 
-**`Currently pursuing MTech, working on NLP, OpenCV and ML/DL Projects.`**
+- 👀 I’m interested in **ML/AI, NLP, OpenCV and Data Analytics Projects.**
 
----
-### 🌑 Languages
-<img align="left" alt="C++" width="30px" alt="C++" title="C++" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="Python" width="30px" alt="Python" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<br />
+- 🌱 I’m currently pursuing **M.Tech CSE from USICT, GGSIPU, New Delhi.**
 
-### 🌒 Software and Tools
-<img align="left" alt="vscode" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="pycharm" title="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="left" alt="github" title="GitHub" width="30px" style="padding-right:10px;" src="https://i.imgur.com/rHUROEu.png" />
-<img align="left" alt="mysql" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<br />
+- 🤝 I'm looking to collaborate on **Data Science and AI Projects particularly those that focuses on NLP, OpenCV and LLM's.**
 
-### 🌓 Libraries
-<img align="left" alt="pandas" title="pandas" width="30px" style="padding-right:10px;" src="https://i.imgur.com/5b4AUzX.png" />
-<img align="left" alt="tensorflow" title="tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="matplotlib" title="matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-<br />
+- 📫 How to reach me **anirudhvarshney2901@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
